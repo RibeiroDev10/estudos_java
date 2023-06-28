@@ -1,0 +1,16 @@
+package entities;
+
+public class Account {
+
+	private number;
+	private holder;
+	private balance;
+	
+	public void depositar() {
+		
+	}
+	
+	public withdraw() {
+		
+	}
+}

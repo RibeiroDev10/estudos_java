@@ -1,0 +1,32 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		int N = sc.nextInt();
+
+		// CREATING THE MATRIX BASED ON THE VARIABLE N
+		int[][] mat = new int[N][N];
+
+		// two for loops that loop through the entire array
+		for (int i = 0; i < N; i++) {
+			for (int j = 0; j < N; j++) {
+				mat[i][j] = sc.nextInt();
+			}
+		}
+
+		// printing on screen
+		System.out.println("Main diagonal: ");
+		for (int i = 0; i < 0; i++) {
+			System.out.print(mat[i][i] + " ");
+		}
+
+		sc.close();
+	}
+
+}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;orientacao_a_objetos&apos;" deleteContents="false" description="Delete resource &apos;orientacao_a_objetos&apos;" element1="/orientacao_a_objetos" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1687299374049"/>&#x0A;<refactoring comment="Delete resource &apos;orientacao_a_objetos&apos;" deleteContents="true" description="Delete resource &apos;orientacao_a_objetos&apos;" element1="/orientacao_a_objetos" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1687299405759"/>
+</session>
